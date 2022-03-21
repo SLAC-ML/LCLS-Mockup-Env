@@ -1,0 +1,10 @@
+name: lcls-mockup
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyterlab
+  - pcaspy
+  - pyepics
+prefix: /usr/local/anaconda3/envs/lcls-mockup
